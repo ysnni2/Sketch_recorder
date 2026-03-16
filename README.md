@@ -52,10 +52,10 @@ OpenCV를 이용해 구현한 웹캠 비디오 녹화 프로그램입니다.
 ## 스크린샷 😎
 
 ### Preview 모드
-![Preview Mode](preview_mode.png)
+#### `preview_mode.png` 파일에서 확인가능 
 
 ### Record 모드
-![Record Mode](record_mode.png)
+#### `record_mode.png` 파일에서 확인 가능 
 
 ### Edge Filter 모드
-![Edge Filter Mode](edge_detection.png)
+#### 'edge_detection.png' 파일에서 확인 가능 
