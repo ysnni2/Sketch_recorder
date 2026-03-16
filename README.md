@@ -45,7 +45,7 @@ OpenCV를 이용해 구현한 웹캠 비디오 녹화 프로그램입니다.
 
 ## 저장 파일
 
-- `record.avi` : 녹화된 비디오 파일
+- ### `record.avi` : 녹화된 비디오 파일
 
 ---
 
@@ -58,4 +58,4 @@ OpenCV를 이용해 구현한 웹캠 비디오 녹화 프로그램입니다.
 #### `record_mode.png` 파일에서 확인 가능 
 
 ### Edge Filter 모드
-#### 'edge_detection.png' 파일에서 확인 가능 
+#### `edge_detection.png` 파일에서 확인 가능 
